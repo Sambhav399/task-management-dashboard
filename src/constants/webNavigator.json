@@ -1,7 +1,17 @@
 [
     {
-        "name": "Dashboard",
+        "name": "Projects",
         "url": "/",
-        "title": "Dashboard | Task Manager"
+        "title": "Projects | Task Manager"
+    },
+    {
+        "name": "Settings",
+        "url": "/settings",
+        "title": "Settings | Task Manager"
+    },
+    {
+        "name": "Help",
+        "url": "/help",
+        "title": "Help | Task Manager"
     }
 ]

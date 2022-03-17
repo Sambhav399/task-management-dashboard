@@ -1,0 +1,273 @@
+{
+  "sections": [
+    {
+      "title": "Task Ready",
+      "tickets": [
+        {
+          "department": "Copywriting",
+          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "date": "Mar 17",
+          "messages": {
+            "count": "2",
+            "unread": true
+          },
+          "attachments": "5",
+          "assignedTo": {
+            "name": "Lorem Ipsum",
+            "image": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+          }
+        },
+        {
+          "department": "UI Design",
+          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "date": "Mar 17",
+          "messages": {
+            "count": "2",
+            "unread": false
+          },
+          "unreadMessages": false,
+          "attachments": "5",
+          "assignedTo": {
+            "name": "Lorem Ipsum",
+            "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+          }
+        }
+      ],
+      "createNewCard": true
+    },
+    {
+      "title": "On Progress",
+      "tickets": [
+        {
+          "department": "UI Design",
+          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "date": "Mar 17",
+          "messages": {
+            "count": "2",
+            "unread": false
+          },
+          "unreadMessages": false,
+          "attachments": "5",
+          "assignedTo": {
+            "name": "Lorem Ipsum",
+            "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+          }
+        },
+        {
+          "department": "Illustration",
+          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "date": "Mar 17",
+          "messages": {
+            "count": "2",
+            "unread": true
+          },
+          "unreadMessages": false,
+          "attachments": "5",
+          "assignedTo": {
+            "name": "Lorem Ipsum",
+            "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+          }
+        },
+        {
+          "department": "Copywriting",
+          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "date": "Mar 17",
+          "messages": {
+            "count": "2",
+            "unread": true
+          },
+          "attachments": "5",
+          "assignedTo": {
+            "name": "Lorem Ipsum",
+            "image": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+          }
+        },
+        {
+          "department": "Illustration",
+          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "date": "Mar 17",
+          "messages": {
+            "count": "2",
+            "unread": true
+          },
+          "unreadMessages": false,
+          "attachments": "5",
+          "assignedTo": {
+            "name": "Lorem Ipsum",
+            "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+          }
+        }
+      ],
+      "createNewCard": false
+    },
+    {
+      "title": "Needs Review",
+      "tickets": [
+        {
+          "department": "Copywriting",
+          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "date": "Mar 17",
+          "messages": {
+            "count": "2",
+            "unread": true
+          },
+          "attachments": "5",
+          "assignedTo": {
+            "name": "Lorem Ipsum",
+            "image": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+          }
+        },
+        {
+          "department": "UI Design",
+          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "date": "Mar 17",
+          "messages": {
+            "count": "2",
+            "unread": false
+          },
+          "unreadMessages": false,
+          "attachments": "5",
+          "assignedTo": {
+            "name": "Lorem Ipsum",
+            "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+          }
+        },
+        {
+          "department": "Illustration",
+          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "date": "Mar 17",
+          "messages": {
+            "count": "2",
+            "unread": true
+          },
+          "unreadMessages": false,
+          "attachments": "5",
+          "assignedTo": {
+            "name": "Lorem Ipsum",
+            "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+          }
+        },
+        {
+          "department": "UI Design",
+          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "date": "Mar 17",
+          "messages": {
+            "count": "2",
+            "unread": false
+          },
+          "unreadMessages": false,
+          "attachments": "5",
+          "assignedTo": {
+            "name": "Lorem Ipsum",
+            "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+          }
+        }
+      ],
+      "createNewCard": false
+    },
+    {
+      "title": "Done",
+      "tickets": [
+        {
+          "department": "Illustration",
+          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "date": "Mar 17",
+          "messages": {
+            "count": "2",
+            "unread": true
+          },
+          "unreadMessages": false,
+          "attachments": "5",
+          "assignedTo": {
+            "name": "Lorem Ipsum",
+            "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+          }
+        },
+        {
+          "department": "Copywriting",
+          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "date": "Mar 17",
+          "messages": {
+            "count": "2",
+            "unread": true
+          },
+          "attachments": "5",
+          "assignedTo": {
+            "name": "Lorem Ipsum",
+            "image": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+          }
+        },
+        {
+          "department": "UI Design",
+          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "date": "Mar 17",
+          "messages": {
+            "count": "2",
+            "unread": false
+          },
+          "unreadMessages": false,
+          "attachments": "5",
+          "assignedTo": {
+            "name": "Lorem Ipsum",
+            "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+          }
+        }
+      ],
+      "createNewCard": false
+    }
+  ],
+  "taskProgress": [
+    {
+      "department": "Copywriting",
+      "current": "3",
+      "total": "8"
+    },
+    {
+      "department": "Illustration",
+      "current": "6",
+      "total": "10"
+    },
+    {
+      "department": "UI Design",
+      "current": "2",
+      "total": "7"
+    }
+  ],
+  "activity": [
+    {
+      "icon": "fa-solid fa-link",
+      "user": "Andrea",
+      "message": "uploaded 3 documents",
+      "date": "Mar 17",
+      "bgColor": "bg-amber-500"
+    },
+    {
+      "icon": "fa-solid fa-message",
+      "user": "karen",
+      "message": "leave some comments",
+      "date": "Mar 17",
+      "bgColor": "bg-green-500"
+    },
+    {
+      "icon": "fa-solid fa-message",
+      "user": "karen",
+      "message": "changed project descriptions",
+      "date": "Mar 17",
+      "bgColor": "bg-violet-500"
+    },
+    {
+      "icon": "fa-solid fa-link",
+      "user": "Andrea",
+      "message": "uploaded 3 documents",
+      "date": "Mar 17",
+      "bgColor": "bg-amber-500"
+    },
+    {
+      "icon": "fa-solid fa-message",
+      "user": "karen",
+      "message": "leave some comments",
+      "date": "Mar 17",
+      "bgColor": "bg-green-500"
+    }
+  ]
+}

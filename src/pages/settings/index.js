@@ -1,0 +1,15 @@
+import React from 'react';
+
+function Settings(){
+    return(
+        <div className="flex divide-x flex-1 overflow-y-auto">
+            <main className="flex-1 px-10 py-12 overflow-y-auto">
+                <header className='flex mb-10'>
+                    <h1 className='text-h1 font-600 flex-1'>Settings</h1>
+                </header>
+            </main>
+        </div>
+    )
+}
+
+export default Settings;
