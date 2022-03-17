@@ -35,6 +35,7 @@ const AssignedTo = props => {
                 src={image}
                 layout='fill'
                 objectFit='cover'
+                alt={name}
             />
         </div>
     )
